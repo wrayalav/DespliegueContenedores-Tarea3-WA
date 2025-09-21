@@ -1,4 +1,4 @@
-# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 3:  Análisis de vulnerabilidades con docker scout
+# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 3:  Análisis de vulnerabilidades con Docker Scout
 
 ![Lenguaje][lngsrv-shield]
 ![Servidor de contenedores][cont-shield]
