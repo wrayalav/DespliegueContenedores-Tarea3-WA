@@ -1,4 +1,4 @@
-# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 1:  Despliegue en Docker de phpMyAdmin
+# Curso: Despliegue de aplicaciones con Docker<br/>CEC-EPN<br/><br/>Tarea 3:  Análisis de vulnerabilidades con docker scout
 
 ![Lenguaje][lngsrv-shield]
 ![Servidor de contenedores][cont-shield]
